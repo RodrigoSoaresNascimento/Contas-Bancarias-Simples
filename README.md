@@ -10,9 +10,7 @@
 <p align="center">
  O projeto tem como objetivo mostrar ao usuario o sistema de interface simples de um banco, onde um usuario cadastrado tem duas contas,
   ele pode realizar as seguintes operações, saque, transferencia de uma conta para outra, deposito, e consultar as transferencias realizadas.
-	
-	![image](https://user-images.githubusercontent.com/62728106/168444114-021c1399-7d9d-43ed-9bf6-c982b04ebf57.png)
-
+![image](https://user-images.githubusercontent.com/62728106/168444149-9a48bba5-a24e-4d7b-ad48-c6ee4df3d182.png)
 
 </p>
 
